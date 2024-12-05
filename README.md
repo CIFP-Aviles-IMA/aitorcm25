@@ -1,2 +1,2 @@
 # aitorcm25
- En este proyecto de Github tenemos la programacion de un brazo robotico, en cual se modifica el codigo original que es un codigo arduino a codigo python.
+ En este proyecto de Github tenemos la programacion de un brazo robotico, en cual se modifica el codigo original que es un codigo arduino a codigo python. Dentro de este proyecto se incluyen varios Docstrings para explicar las diferentes acciones que se ejecutan en el código, escogiendo varios pines de entrada y de salida que son los encargados de mandar la informacion del robot y ejecute los movimientos indicados.  
